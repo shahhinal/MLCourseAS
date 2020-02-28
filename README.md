@@ -1,4 +1,4 @@
-### Machine Learning coursework
+### Machine Learning coursework (Cal Poly Pomona cs599)
 These are assignments of participating in the class mini competitions on kaggle, implementing machine learning algorithms and data preprocessing and visualizations for classification and segmentation problems.
 
 ### Libraries Required:
